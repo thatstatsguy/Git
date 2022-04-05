@@ -1,3 +1,7 @@
+This branch is for my own notes related to git.
+
+I think there's an over-reliance on IDE's such as Rider and VS doing all my git commands for me and I'd like to fully understand what's going on under the hood.
+
 Basics
 
 echo "# docker" >> README.md <br />
